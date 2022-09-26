@@ -1,4 +1,4 @@
-# Open WebView - [XDA Thread](https://forum.xda-developers.com/t/magisk-module-font-open-webview-1-0-0.4496119/)
+# Open WebView[sources are [here](https://github.com/Magisk-Modules-Alt-Repo/open_webview)] - [XDA Thread](https://forum.xda-developers.com/t/magisk-module-font-open-webview-1-0-0.4496119/)
 
 ![Open WebView](https://raw.githubusercontent.com/F3FFO/Open-WebView/master/img/logo.png)
 
@@ -30,15 +30,10 @@ If you found this helpful, please consider supporting development with a [coffe]
 
 - [MMT-Extended](https://github.com/Zackptg5/MMT-Extended) by [Zackptg5](https://github.com/Zackptg5)
 - [Bromite](https://github.com/bromite/bromite)
+- [Zipsigner](https://github.com/Magisk-Modules-Repo/zipsigner) by [osm0sis](https://github.com/osm0sis)
 
 ## License
 
 Copyright 2022 F3FFO
 
 The source code is available under [GPL-3.0](https://github.com/Magisk-Modules-Alt-Repo/open_fonts/blob/master/LICENSE)
-
-## Change logs
-
-# v1.0.0
-
-- Initial release
